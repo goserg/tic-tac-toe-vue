@@ -1,5 +1,7 @@
 # tic-tac-toe
 
+![tictactoe](https://raw.githubusercontent.com/goserg/tic-tac-toe-vue/master/screenshots/tictactoe.gif)
+
 ## Project setup
 ```
 npm install
